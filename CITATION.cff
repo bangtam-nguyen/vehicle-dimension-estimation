@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Vehicle Dimension Estimation from Surveillance Cameras
+message: If you use this work, please cite the thesis below.
+type: software
+authors:
+  - family-names: Nguyen
+    given-names: Bang Tam
+  - family-names: Truong
+    given-names: Minh Hieu
+license: AGPL-3.0
+references:
+  - type: thesis
+    title: "Applying Hybrid Segmentation-PCA to Vehicle Dimension Estimation from Surveillance Cameras"
+    authors:
+      - family-names: Nguyen
+        given-names: Bang Tam
+      - family-names: Truong
+        given-names: Minh Hieu
+    institution:
+      name: Van Lang University
+    thesis-type: Undergraduate thesis
+    year: 2026
